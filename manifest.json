@@ -1,0 +1,11 @@
+{
+  "name": "World Debaychery",
+  "mods": [
+    {
+      "id": "WorldDebaychery",
+      "name": "World Debaychery",
+      "version": "0.9",
+      "description": "Добавлена Микото",
+      "game_version": "0.16.2",
+      "file_name": "WorldDebaychery.zip"
+}
